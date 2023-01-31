@@ -3,6 +3,6 @@ Real time background remover application which will remove the image background 
 # Technical Outline 📕
 ❶ fetching image from gallery\
 ❷ background remover using remove.bg api\
-❸ before and after screen display the difference between two images\
+❸ before and after screen display the difference between two images
 # Screenshots
 # Vedio Preview
